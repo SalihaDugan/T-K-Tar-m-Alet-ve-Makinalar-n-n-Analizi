@@ -1,5 +1,5 @@
 # Tüik Tarımsal Alet ve Makina İstatistikleri
-![23842305](https://github.com/SalihaDugan/Tuik_Tarim_Alet_Makina/assets/96032761/5ef432ab-ab31-487f-9359-71e581752fb6)
+![23842305](https://github.com/SalihaDugan/TUIK-Tarim-Alet-ve-Makinalarinin-Analizi/assets/96032761/bec52915-5638-41e3-a0b3-8ff4e2c4c7f5)
 
 Bu projede TÜİK'in paylaşmış olduğu Tarımsal Alet ve Makina İstatikleri verisi üzerinden bir veri analizi yapılmştır.
 
